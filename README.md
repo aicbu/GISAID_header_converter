@@ -3,8 +3,6 @@ Simple python script to convert Fasta headers to GISAID style
 
 
 
-Usage
-
 
 Usage: gisaid_header_converter.py <input_fasta> [options]
 
