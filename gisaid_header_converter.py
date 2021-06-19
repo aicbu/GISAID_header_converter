@@ -42,7 +42,6 @@ headers_list=""
 #output= open('output.fasta', 'w')
 output_headers=open('replaced_headers.csv','w')
 
-open 
 for i in range(len(ids)):
     headers_list='hCoV-19/'+args.country+ '/' +ids[i]+'/'+str(args.year)+'\n'
     new_fasta='>'+'hCoV-19/'+args.country+'/' +ids[i]+'/'+str(args.year)+'\n'+str(seqs[i])+'\n'
