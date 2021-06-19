@@ -9,9 +9,9 @@ Usage: gisaid_header_converter.py <input_fasta> [options]
 
 optional arguments:
 
-  -h                    help
+  -h               	    	help
   
-  --country             sampling country
+  --country         	    sampling country
   
-  --year                sampling year
+  --year              	  sampling year
   
