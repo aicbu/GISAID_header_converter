@@ -1,5 +1,4 @@
 # GISAID_header_converter
-Quick code to speed up SARS-CoV-2 data uploading for my day to day work.
 
 This simple Python script can convert FASTA headers to GISAID style.<hCoV-19/COUNTRY/SEQ_ID/YEAR>
 
